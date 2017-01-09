@@ -12,7 +12,7 @@
         <textarea id="message" name="user_message"></textarea>
     </div>
     
-    <div clas="button">
+    <div class="button">
         <button type="submit">Envoyer votre message</button>
     </div>
 </form>
